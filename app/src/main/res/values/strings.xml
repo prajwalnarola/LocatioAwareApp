@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationAwareApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="error_receiver_not_availale">ResultReceiver not received</string>
+    <string name="error_address_unavailable">Address not available</string>
+    <string name="error_location_unavailable">Location not available, can\'t fetch address</string>
+    <string name="error_exception_while_getting_address">Exception while getting address</string>
+    <string name="msg_please_check_internet">Please check your Internet connection and try again</string>
+</resources>
